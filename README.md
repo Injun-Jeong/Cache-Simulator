@@ -19,7 +19,7 @@ For each memory request, the cache simulator will determine whether the memory r
 
 At the end of a simulation, your simulator will show the contents (blocks) stored in the cache. It also reports the simulation results: the number of hits, the number of misses, the miss rate, the number of dirty cache blocks, and the average memory access time. Assume that the cache hit time is 1 cycle and the miss penalty is 200 cycles when calculating the average memory access time (in cycles).
 
-![Cache%20Simulator/Untitled.png](Cache%20Simulator/Untitled.png)
+![img/Untitled.png](img/Untitled.png)
 
 ---
 
